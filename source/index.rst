@@ -10,11 +10,11 @@ Welcome to Intersections and Unions, a blog exploring how math plays well with o
    :maxdepth: 2
    :caption: Contents:
 
+   about
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. postlist:: 10
+   :author: Jessie D. Jamieson
+   :date: %m-%d-%Y
+   :format: {date} - {title}
+   :list-style: none
+   :excerpts:
