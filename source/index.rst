@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to intersections-and-unions's documentation!
+Welcome to Intersections and Unions, a blog exploring how math plays well with others!
 ====================================================
 
 .. toctree::

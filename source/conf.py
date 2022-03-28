@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'intersections-and-unions'
-copyright = '2022, jessiejamiesonphd'
+project = 'Intersections and Unions'
+copyright = '2022, Jessie D. Jamieson, PhD'
 author = 'jessiejamiesonphd'
 
 # The full version, including alpha/beta/rc tags
@@ -31,6 +31,10 @@ release = '0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+"ablog",
+"sphinx.ext.intersphinx",
+"sphinx.ext.mathjax",
+"sphinx_panels",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -47,7 +51,7 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = "pydata_sphinx_theme"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
