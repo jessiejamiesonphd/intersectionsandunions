@@ -14,6 +14,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+mathjax_path="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS_HTML"
 
 # -- Project information -----------------------------------------------------
 
@@ -62,7 +63,7 @@ html_static_path = ['_static']
 
 # LaTeX options
 
-latex_engine = 'xelatex'
+latex_engine = 'pdflatex'
 latex_elements = {
     'fontpkg': r'''
 \\setmainfont{DejaVu Serif}
@@ -71,12 +72,14 @@ latex_elements = {
 ''',
     'preamble': r'''
 \\usepackage[titles]{tocloft}
+\\usepackage{amssymb}
+\\usepackage{amsmath}
 \\cftsetpnumwidth {1.25cm}\\cftsetrmarg{1.5cm}
 \\setlength{\\cftchapnumwidth}{0.75cm}
 \\setlength{\\cftsecindent}{\\cftchapnumwidth}
 \\setlength{\\cftsecnumwidth}{1.25cm}
 ''',
     'fncychap': r'\\usepackage[Bjornstrup]{fncychap}',
-    'printindex': r'\\footnotesize\\raggedright\\printindex',
+    'printindex': r'\\footnotesize\\raggedright\\printindex'
 }
 latex_show_urls = 'footnote'
