@@ -14,3 +14,6 @@ I also grew up riding motorcycles. If I post about hobbies ever, you might notic
 .. image:: ../images/onthebike.jpg
   :width: 400
   :alt: a 10ish year old and a 3 year old on a black and white motorcycle
+  :align: center
+
+More text here
