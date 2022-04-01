@@ -19,6 +19,6 @@ I also grew up riding motorcycles. If I post about hobbies ever, you might notic
 
 Moving on to more relevant things: I attended East Tennessee State University from 2009-2013 and majored in math with a minor in physics and astronomy. I was also an Honors in Discipline student while at ETSU and loved that experience. I was able to have so many one-on-one interactions with faculty members through that program, and, as a result, graduated with somewhere around 7 academic, peer reviewed publications by the time I went to graduate school. I did a couple of REUs (Research Experiences for Undergraduates), one at ETSU and one at Auburn University, and I subsequently applied for (and received, holy cow) an NSF Graduate Research Fellowship. I took that fellowship (and my new husband, William, also math and physics grad, also NSFGRF) to the University of Nebraska. This might seem like an odd choice. It wasn't, at the time. I might write an entire blog post about that.
 
-At UNL, both my husband and I thought we'd be studying discrete math. That didn't quite pan out, so we went back to our physics roots and switched to something more applied. I ended up getting a PhD studying partial differential equations (you didn't ask for it, but `Dissertation`_.
+At UNL, both my husband and I thought we'd be studying discrete math. That didn't quite pan out, so we went back to our physics roots and switched to something more applied. I ended up getting a PhD studying partial differential equations (you didn't ask for it, but here is a link to my `dissertation`_.
 
-.. _Dissertation: https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1093&context=mathstudent
+.. _dissertation: https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1093&context=mathstudent
